@@ -22,5 +22,5 @@ also added filtering by is_active
 for filter and ordering-http://127.0.0.1:8000/job/?job_title=Retail%20manager&ordering=-salary
 
 
-I have used faker library of python for fake jobs,names etc.
+I have used faker api of python for fake jobs,names etc.
 population scripts is used for this.
